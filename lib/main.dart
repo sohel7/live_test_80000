@@ -20,7 +20,7 @@ class MyImageFeed extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Image Feed'),
+        title: Text('News Feed'),
       ),
       body: GridView.builder(
         gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
