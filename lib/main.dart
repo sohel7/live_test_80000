@@ -36,8 +36,8 @@ class MyImageFeed extends StatelessWidget {
               decoration: BoxDecoration(
                 image: DecorationImage(
                   image: NetworkImage(
-                     // 'https://picsum.photos/250?image=9'
-                      'https://via.placeholder.com/150'
+                      'https://picsum.photos/250?image=9'
+                     // 'https://via.placeholder.com/150'
                   ), // Placeholder image URL
                   fit: BoxFit.cover,
                 ),
